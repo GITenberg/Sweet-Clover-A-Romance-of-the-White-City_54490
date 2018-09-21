@@ -1,0 +1,27 @@
+_repo: Sweet-Clover-A-Romance-of-the-White-City_54490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnham, Clara Louise
+    alias: Burnham, Clara Louise Root
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '1017'
+    url: http://www.gutenberg.org/2009/agents/1017
+description: ''
+gutenberg_issued: '2017-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54490'
+  lccn: 06019672
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.) -- Fiction'
+- GITenberg
+title: 'Sweet Clover: A Romance of the White City'
+url: http://www.gutenberg.org/ebooks/54490
