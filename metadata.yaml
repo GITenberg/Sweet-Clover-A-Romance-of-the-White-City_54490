@@ -1,5 +1,8 @@
 _repo: Sweet-Clover-A-Romance-of-the-White-City_54490
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54490-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Burnham, Clara Louise
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1017'
     url: http://www.gutenberg.org/2009/agents/1017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54490#Sweet-Clover-A-Romance-of-the-White-City
 gutenberg_issued: '2017-04-06'
 gutenberg_type: Text
 identifiers:
